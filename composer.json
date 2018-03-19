@@ -4,6 +4,7 @@
     "require": {
         "php": "^7.1.3",
         "ext-iconv": "*",
+        "friendsofsymfony/user-bundle": "2.1.X-dev",
         "symfony/asset": "^4.0",
         "symfony/console": "^4.0",
         "symfony/flex": "^1.0",
@@ -15,6 +16,7 @@
         "symfony/profiler-pack": "^1.0",
         "symfony/swiftmailer-bundle": "^3.2",
         "symfony/templating": "^4.0",
+        "symfony/webpack-encore-pack": "^1.0",
         "symfony/yaml": "^4.0"
     },
     "require-dev": {
