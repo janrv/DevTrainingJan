@@ -42,5 +42,5 @@
 /nbproject/private/
 
 /.vagrant/
-/.vendor/
+/vendor/
 /nbproject/
